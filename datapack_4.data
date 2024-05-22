@@ -1,0 +1,31 @@
+Employee_ID,Years_of_Service,Contract_Type,Education_Level,Avg_Salary
+0,3,Full-Time,Bachelor,55000
+1,1,Part-Time,High School,30000
+2,10,Full-Time,Master,80000
+3,2,Contract,High School,40000
+4,5,Full-Time,Bachelor,60000
+5,4,Full-Time,Associate,52000
+6,12,Full-Time,Master,85000
+7,1,Contract,High School,32000
+8,8,Full-Time,Associate,70000
+9,3,Part-Time,Bachelor,35000
+10,6,Full-Time,Bachelor,62000
+11,4,Full-Time,High School,48000
+12,15,Full-Time,Master,90000
+13,2,Contract,Associate,39000
+14,9,Full-Time,Doctorate,75000
+15,5,Full-Time,Bachelor,61000
+16,6,Full-Time,Associate,58000
+17,2,Part-Time,High School,33000
+18,11,Full-Time,Master,86000
+19,13,Full-Time,Associate,79000
+20,3,Part-Time,Bachelor,37000
+21,7,Full-Time,High School,65000
+22,4,Full-Time,Bachelor,52000
+23,5,Full-Time,Associate,60000
+24,2,Contract,High School,34000
+25,7,Full-Time,Master,68000
+26,2,Part-Time,Associate,35000
+27,10,Full-Time,Doctorate,82000
+28,4,Full-Time,Bachelor,49000
+29,8,Full-Time,Associate,72000
